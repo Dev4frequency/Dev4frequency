@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/59303763700641.5ab98ff858d38.gif" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Yash Bisht</h1>
 <h3 align="center">Software Engineer and Full Stack Developer</h3>
 
@@ -23,8 +19,11 @@
 ![](https://streak-stats.demolab.com/?user=Dev4frequency&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dev4frequency&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dev4frequency&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏅 Achievements
+
+- 🦈 Pull Shark
+- 🔥 Quickdraw
+- 🚀 Open Source Contributor
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
