@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing B. Tech in Computer Science from Graphic Era Hill University<br>My Tech-Stack Includes - <br>1-Cpp/ Python<br>2-Java<br>3-Next.js/Type-Script<br>4-React.js/HTML/CSS/Tailwind CSS<br>5-MongoDB / PostgreSQL<br>6- Node.js/Express.js<br>7- Docker/ AWS/ CI/CD<br>8-Postman/ WebSocket/ Git/ GitHub
+I'm currently pursuing B. Tech in Computer Science from Graphic Era Hill University<br>My Tech-Stack Includes - <br>1-C/C++<br>2-Java/Python<br>3-Next.js/Type-Script<br>4-JavaScript/React.js/HTML/CSS/Tailwind CSS<br>5-MongoDB/PostgreSQL<br>6- GoLang/Node.js/Express.js<br>7- Docker/ AWS/ CI/CD<br>8-Restful API/WebSocket/ Git/ GitHub
 
 
 ## 🌐 Socials:
