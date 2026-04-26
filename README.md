@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
-<h3 align="center">Software Engineer and Full Stack Developer</h3> 
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/59303763700641.5ab98ff858d38.gif" width="100%" />
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
+<h1 align="center">Hi 👋, I'm Yash Bisht</h1>
+<h3 align="center">Software Engineer and Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="600"/>
+</p>
 
 # 💫 About Me:
 ☆ Software Engineer | Full Stack Developer | MERN | Exploring Backend Systems with Golang<br><br>❄ I’m currently working on  <br>→ Scalable  Production Grade Backend Applications<br>→ Backend-focused projects using Go (APIs, concurrency, performance)  <br><br>☆ I’m looking to collaborate on  <br>→ Open Source (Backend / AI / Developer Tools)  <br>→ Innovative MERN based Projects<br>→ Node.js/GoLang-based systems & scalable web apps  <br><br>✯ I’m looking for help with  <br>→ System Design & Distributed Systems  <br>→ Real-time systems (WebSockets, APIs, performance optimization)<br>→ Writing efficient concurrent code (Go routines, channels)  <br><br>🌱 I’m currently learning  <br>→ Golang for backend & high-performance systems  <br>→ Advanced Node.js & database optimization  <br>→ System Design (scalability, microservices)  <br><br>💬 Ask me about  <br>→ Data Structures & Algorithms<br>→ Problem Solving & Optimization (Time/Space Complexity)  <br>→ JavaScript, React, MERN Stack  <br>→ Backend Development & Golang basics  <br>→ Consistency, coding discipline & interview prep<br><br>⚡ Fun fact  <br>→ I build better at night 🌌 | Nyctophile | “Building in silence, shining in the dark”<br>→ Leetcode Guardian🏆 | 3⭐ @CodeChef
